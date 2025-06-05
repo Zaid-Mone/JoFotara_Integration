@@ -28,12 +28,15 @@ JoFotara_Integration/
 
 - **REQUEST**: Please keep in mind to refer to the `DTOs/JoFotaraRequest.cs` class where I have set detailed notes.
 - **RESPONSE**: Please see the `DTOs/EINV_Response.cs` class for the JoFotara API response structure.
-
+- For more information about the XML format and structure, check this post:  
+  https://www.facebook.com/photo/?fbid=3374592352679150&set=pcb.3374602006011518
 
 
 ## ⚙️ Configuration
 
-Update the `appsettings.json` file with your JoFotara credentials and company info:
+Update the `appsettings.json` file with your JoFotara credentials and company info.  
+You can generate your credentials from this URL:  
+https://portal.jofotara.gov.jo/en/devices
 
 ```json
 "JoFotara": {
