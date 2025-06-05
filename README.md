@@ -24,7 +24,7 @@ JoFotara_Integration/
 ├── Program.cs
 ```
 
-## 📝 Note
+## ⚠️ Important To Know
 
 - **REQUEST**: Please keep in mind to refer to the `DTOs/JoFotaraRequest.cs` class where I have set detailed notes.
 - **RESPONSE**: Please see the `DTOs/EINV_Response.cs` class for the JoFotara API response structure.
